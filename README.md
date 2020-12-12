@@ -1,1 +1,1 @@
-This repo contains all the assingnments of C++ 
+This repo contains all the assignnments of C++ 
