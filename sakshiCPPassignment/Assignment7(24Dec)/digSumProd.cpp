@@ -1,6 +1,5 @@
 //WAP to print the sum and product of digits of given number
 #include <bits/stdc++.h>
-#include <conio.h>
 using namespace std;
 int main()
 {int num,prod=1,sum=0,dig;
